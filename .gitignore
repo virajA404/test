@@ -1,0 +1,5 @@
+.DS_Store
+secret.txt
+hello.txt
+
+#log files to be ignored
